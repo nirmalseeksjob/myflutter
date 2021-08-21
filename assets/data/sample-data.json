@@ -1,0 +1,263 @@
+{
+    "banner": [{
+            "imageUrl": "assets/images/banner/1.png"
+        },
+        {
+            "imageUrl": "assets/images/banner/2.png"
+        },
+        {
+            "imageUrl": "assets/images/banner/3.png"
+        },
+        {
+            "imageUrl": "assets/images/banner/4.png"
+        },
+        {
+            "imageUrl": "assets/images/banner/5.png"
+        },
+        {
+            "imageUrl": "assets/images/banner/6.png"
+        },
+        {
+            "imageUrl": "assets/images/banner/7.png"
+        },
+        {
+            "imageUrl": "assets/images/banner/8.png"
+        }
+
+    ],
+    "category": [{
+            "name": "Mobile",
+            "imageUrl": "assets/images/category/mobile.png",
+            "slug": "fashion"
+        },
+        {
+            "name": "Laptop",
+            "imageUrl": "assets/images/category/laptop.png",
+            "slug": "fashion"
+        },
+        {
+            "name": "Electronics",
+            "imageUrl": "assets/images/category/electronics.jpg",
+            "slug": "fashion"
+        },
+        {
+            "name": "Bike",
+            "imageUrl": "assets/images/category/bike.png",
+            "slug": "fashion"
+        },
+        {
+            "name": "Car",
+            "imageUrl": "assets/images/category/car.jpg",
+            "slug": "fashion"
+        },
+        {
+            "name": "TV",
+            "imageUrl": "assets/images/category/tv.jpg",
+            "slug": "fashion"
+        }
+
+
+
+    ],
+
+    "trending": [{
+            "id": "1",
+            "name": "M7 Battery Replacement",
+            "desc": "Fixtak Company",
+            "price": "400",
+            "salePrice": "500",
+            "offer": 40,
+            "rating": 2.5,
+            "totalReview": 1245,
+            "imageUrl": "assets/images/trending/10.jpg"
+        },
+        {
+            "id": "2",
+            "name": "M7 Camera not working",
+            "desc": "Fixtak Company",
+            "price": "375",
+            "salePrice": "599",
+            "offer": 40,
+            "rating": 3.6,
+            "totalReview": 2545,
+            "imageUrl": "assets/images/trending/11.jpg"
+        },
+        {
+            "id": "3",
+            "name": "M7 Charger Port",
+            "desc": "Fixtak Company",
+            "price": "375",
+            "salePrice": "599",
+            "offer": 40,
+            "rating": 3.6,
+            "totalReview": 2545,
+            "imageUrl": "assets/images/trending/12.jpg"
+        },
+        {
+            "id": "4",
+            "name": "M7 Display Broken",
+            "desc": "Fixtak Company",
+            "price": "999",
+            "salePrice": "1399",
+            "offer": 30,
+            "rating": 3.6,
+            "totalReview": 2545,
+            "imageUrl": "assets/images/trending/13.jpg"
+        }
+
+    ],
+
+    "Deal_of_the_day": [{
+            "image": "assets/images/dealsOfTheDay/1.jpeg",
+            "name": "Salon at home for Women",
+            "offer": "Upto 70% OFF",
+            "filterOptions": ""
+        },
+        {
+            "image": "assets/images/dealsOfTheDay/2.jpeg",
+            "name": "Massage Therapy for Men",
+            "offer": "Upto 80% OFF",
+            "filterOptions": ""
+        },
+        {
+            "image": "assets/images/dealsOfTheDay/3.jpeg",
+            "name": "Men's Grooming",
+            "offer": "Upto 50% OFF",
+            "filterOptions": ""
+        },
+        {
+            "image": "assets/images/dealsOfTheDay/4.jpeg",
+            "name": "Professional Bathroom Cleaning",
+            "offer": "Upto 40% OFF",
+            "filterOptions": ""
+        }
+    ],
+    "top_offer": [{
+            "image": "assets/images/topOffer/1.jpeg",
+            "name": "Casual shirt & trouser",
+            "offer": "Upto 70% OFF",
+            "filterOptions": ""
+        },
+        {
+            "image": "assets/images/topOffer/2.jpeg",
+            "name": "Casual shirt & trouser",
+            "offer": "Upto 80% OFF",
+            "filterOptions": ""
+        },
+        {
+            "image": "assets/images/topOffer/4.jpeg",
+            "name": "Casual shirt & trouser",
+            "offer": "Upto 50% OFF",
+            "filterOptions": ""
+        },
+        {
+            "image": "assets/images/topOffer/4.jpeg",
+            "name": "Casual shirt & trouser",
+            "offer": "Upto 40% OFF",
+            "filterOptions": ""
+        }
+    ],
+    "top_selection": [{
+            "image": "assets/images/topSelection/1.jpeg",
+            "name": "Casual shirt & trouser",
+            "offer": "Upto 70% OFF",
+            "filterOptions": ""
+        },
+        {
+            "image": "assets/images/topSelection/2.jpeg",
+            "name": "Casual shirt & trouser",
+            "offer": "Upto 80% OFF",
+            "filterOptions": ""
+        },
+        {
+            "image": "assets/images/topSelection/3.jpeg",
+            "name": "Casual shirt & trouser",
+            "offer": "Upto 50% OFF",
+            "filterOptions": ""
+        },
+        {
+            "image": "assets/images/topSelection/4.jpeg",
+            "name": "Casual shirt & trouser",
+            "offer": "Upto 40% OFF",
+            "filterOptions": ""
+        }
+    ],
+
+    "dynamic_list": [{
+            "title": "Cleaning & Pest Control",
+            "subTitle": "Removes hard stains & more",
+            "colorIndex": 1,
+            "items": [{
+                    "image": "assets/images/dynamic/c1.jpeg",
+                    "name": "Professional Sofa Cleaning",
+                    "offer": "Upto 70% OFF",
+                    "filterOptions": ""
+                },
+                {
+                    "image": "assets/images/dynamic/c2.jpeg",
+                    "name": "Pest Control",
+                    "offer": "Upto 80% OFF",
+                    "filterOptions": ""
+                },
+                {
+                    "image": "assets/images/dynamic/c3.jpeg",
+                    "name": "Professional Bathroom Cleaning",
+                    "offer": "Upto 50% OFF",
+                    "filterOptions": ""
+                },
+                {
+                    "image": "assets/images/dynamic/c4.jpeg",
+                    "name": "Car Cleaning",
+                    "offer": "Upto 40% OFF",
+                    "filterOptions": ""
+                }
+            ]
+        },
+
+        {
+            "title": "Appliances: Services & Repair",
+            "colorIndex": 2,
+            "items": [{
+                    "image": "assets/images/dynamic/e1.jpeg",
+                    "name": "Geyser Service and Repair",
+                    "offer": "Upto 70% OFF",
+                    "filterOptions": ""
+                },
+                {
+                    "image": "assets/images/dynamic/e2.jpeg",
+                    "name": "RO Service & Repair",
+                    "offer": "Upto 80% OFF",
+                    "filterOptions": ""
+                },
+                {
+                    "image": "assets/images/dynamic/e3.jpeg",
+                    "name": "AC Service and Repair",
+                    "offer": "Upto 50% OFF",
+                    "filterOptions": ""
+                },
+                {
+                    "image": "assets/images/dynamic/e4.jpeg",
+                    "name": "Washing Machine Repair",
+                    "offer": "Upto 40% OFF",
+                    "filterOptions": ""
+                }
+            ]
+        }
+
+
+    ],
+    "advertise_1": [{
+            "imageUrl": "assets/images/fashion/add5.jpg"
+        },
+        {
+            "imageUrl": "assets/images/fashion/add5.jpg"
+        }
+    ],
+    "advertise_2": [{
+            "imageUrl": "assets/images/fashion/add3.jpg"
+        },
+        {
+            "imageUrl": "assets/images/fashion/add4.jpg"
+        }
+    ]
+}

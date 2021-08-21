@@ -1,0 +1,75 @@
+{
+    "name": "Harish Gorana",
+    "title": "Laptop & Desktop repair",
+    "price": "375",
+    "salePrice": "599",
+    "offer": 40,
+    "rating": 2.5,
+    "totalReview": 2545,
+    "color": "Fussion Blue",
+    "frontCamera": "17 year",
+    "internalStorage": "0.00",
+    "images": [
+        "assets/images/professional/1.png",
+        "assets/images/professional/2.jpg",
+        "assets/images/professional/3.jpg",
+        "assets/images/professional/4.jpg"
+    ],
+    "description": "Perfect for travelers and people looking for lightweight laptops, this slim laptop from Lenovo is the ideal computing device that you’re searching for. Featuring a 7th Gen Intel Core-i3 7020U processor and 4 GB of RAM, this laptop helps you multitask with ease and finish your tasks on time. The 39.62 cm (15.6) Full HD screen and dual 1.5 W speakers offer an immersive audio-visual experience, irrespective of the content you're watching.",
+    "varient": {
+        "color": [{ "code": "red", "value": "ff1a1a" }, { "code": "blue", "value": "32a6a8" }],
+        "capacity": [{ "code": "64", "value": "64 GB" }, { "code": "128", "value": "128 GB" }]
+    },
+    "comments": [{
+        "rating": 4.2,
+        "date": "12 Jan 2021",
+        "describe": "Perfect for travelers and people looking for lightweight laptops, this slim laptop from Lenovo is the ideal computing device."
+    }],
+
+
+    "similarProduct": [{
+            "id": "1",
+            "name": "Apple",
+            "desc": "iPhone 11 (128GB)",
+            "price": "375",
+            "salePrice": "599",
+            "offer": 40,
+            "rating": 3.5,
+            "totalReview": 2545,
+            "imageUrl": "assets/images/trending/1.png"
+        },
+        {
+            "id": "2",
+            "name": "HP",
+            "desc": "Optical Wired Mouse (USB 2.0, Black)",
+            "price": "375",
+            "salePrice": "599",
+            "offer": 40,
+            "rating": 3.6,
+            "totalReview": 2545,
+            "imageUrl": "assets/images/trending/1.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Highlander",
+            "desc": "Full Sleeve Solid Men Sweetshirt",
+            "price": "375",
+            "salePrice": "599",
+            "offer": 40,
+            "rating": 3.6,
+            "totalReview": 2545,
+            "imageUrl": "assets/images/trending/4.jpeg"
+        },
+        {
+            "id": "4",
+            "name": "Boat",
+            "desc": "190W 5 W Bluetooth Speaker (Black, Stereo Channel)",
+            "price": "999",
+            "salePrice": "1399",
+            "offer": 30,
+            "rating": 3.6,
+            "totalReview": 2545,
+            "imageUrl": "assets/images/trending/6.jpeg"
+        }
+    ]
+}

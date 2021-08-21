@@ -1,0 +1,130 @@
+[{
+        "id": "1",
+        "name": "Repair & Maintenance",
+        "isExpanded": false,
+        "child": [{
+                "name": "AC & Cooler Repair",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "TV Repair",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Automation technician",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Laptop & Desktop repair",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Refrigerator/ Fridge repair",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Plumber",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Education & Training",
+        "isExpanded": false,
+        "child": [{
+                "name": "Home Tutor",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Language class",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Cooking class",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Career Counsellor",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Dance class",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Health & Fitness",
+        "isExpanded": false,
+        "child": [{
+                "name": "Gym Instructor",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Yoga Trainer",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Wedding decorators",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Pre-Wedding shoot",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Dance Choreographer",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Salon at home",
+        "isExpanded": false,
+        "child": [{
+                "name": "Make-up Artist",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Mehendi Artist",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Massage for women",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Massage for men",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            },
+            {
+                "name": "Tattoo Artist",
+                "desc": "The Expansion Panel List shows its children by animating expansion on clicking the item.",
+                "icon": "Icons.ac_unit"
+            }
+        ]
+    }
+]

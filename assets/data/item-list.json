@@ -1,0 +1,68 @@
+[{
+        "id": "1",
+        "name": "Harish Gorana",
+        "desc": "Laptop & Desktop repair",
+        "price": "100",
+        "salePrice": "599",
+        "offer": 40,
+        "rating": 2.5,
+        "totalReview": 2545,
+        "imageUrl": "assets/images/professional/7.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Harish Gorana",
+        "desc": "Laptop & Desktop repair",
+        "price": "100",
+        "salePrice": "599",
+        "offer": 40,
+        "rating": 2.5,
+        "totalReview": 2545,
+        "imageUrl": "assets/images/professional/8.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Harish Gorana",
+        "desc": "Laptop & Desktop repair",
+        "price": "100",
+        "salePrice": "599",
+        "offer": 40,
+        "rating": 2.5,
+        "totalReview": 2545,
+        "imageUrl": "assets/images/professional/5.png"
+    },
+    {
+        "id": "4",
+        "name": "Harish Gorana",
+        "desc": "Laptop & Desktop repair",
+        "price": "100",
+        "salePrice": "599",
+        "offer": 40,
+        "rating": 2.5,
+        "totalReview": 2545,
+        "imageUrl": "assets/images/professional/5.png"
+    },
+    {
+        "id": "5",
+        "name": "Harish Gorana",
+        "desc": "Laptop & Desktop repair",
+        "price": "100",
+        "salePrice": "599",
+        "offer": 40,
+        "rating": 2.5,
+        "totalReview": 2545,
+        "imageUrl": "assets/images/professional/5.png"
+    },
+    {
+        "id": "6",
+        "name": "Harish Gorana",
+        "desc": "Laptop & Desktop repair",
+        "price": "100",
+        "salePrice": "599",
+        "offer": 40,
+        "rating": 2.5,
+        "totalReview": 2545,
+        "imageUrl": "assets/images/professional/5.png"
+    }
+
+]

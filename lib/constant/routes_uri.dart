@@ -1,0 +1,9 @@
+final String SIGN_IN = 'signin';
+final String SIGN_UP = 'signup';
+final String SPLASH_SCREEN = 'splashscreen';
+final String HOME = '/home';
+final String VIEW_ALL_PRODUCT = '/view-all-product';
+final String SEARCH = '/search';
+final String NAVIGATION = '/navigation';
+final String ALL_AVL_SERVICE = '/all-avl-service';
+final String CART = '/cart';
